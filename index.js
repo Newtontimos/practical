@@ -1,0 +1,1 @@
+const mySchool = "new dowm";
